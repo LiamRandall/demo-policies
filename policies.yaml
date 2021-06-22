@@ -1,5 +1,5 @@
 policies:
-  - name: tims-demo-security-group
+  - name: tims-demo-security-group-two
     resource: aws.security-group
 
   - name: tims-demo-ec2
